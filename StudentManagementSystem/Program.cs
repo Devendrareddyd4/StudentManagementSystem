@@ -569,7 +569,7 @@ internal class Program
             }
             else
             {
-                Console.WriteLine("Failed to insert the department.");
+                Console.WriteLine("Failed to in the insert the department.");
             }
         }
 
