@@ -565,7 +565,7 @@ internal class Program
             int rowsAffected = cmd.ExecuteNonQuery();
             if (rowsAffected > 0)
             {
-                Console.WriteLine("New department inserted successfully.");
+                Console.WriteLine("New department inserted into thecorrect path successfully.");
             }
             else
             {
